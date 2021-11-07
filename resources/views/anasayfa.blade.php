@@ -2,7 +2,7 @@
 @extends('layouts.master')
 
 @section('title')
-Anasayfa
+Anasayfaa
 
 @endsection
 @section('content')
