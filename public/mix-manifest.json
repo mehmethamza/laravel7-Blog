@@ -1,0 +1,11 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/js/main.js": "/js/main.js",
+    "/js/modernizr.js": "/js/modernizr.js",
+    "/js/plugins.js": "/js/plugins.js",
+    "/js/jquery-3.2.1.min.js": "/js/jquery-3.2.1.min.js",
+    "/js/yonetim/app.js": "/js/yonetim/app.js",
+    "/js/yonetim/app.js.map": "/js/yonetim/app.js.map",
+    "/js/yonetim/app.js.LICENSE.txt": "/js/yonetim/app.js.LICENSE.txt"
+}
